@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://breadspapa.github.io/news/sitemap.xml
